@@ -1,0 +1,3 @@
+[submodule "themes/Meadow"]
+	path = themes/Meadow
+	url = https://github.com/kb1000fx/hexo-theme-meadow.git
