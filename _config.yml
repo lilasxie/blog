@@ -18,7 +18,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: https://blog.xiaolaixiezuoke.com
+url: https://xiaolaixiezuoke.com
 root: /
 #permalink: :year/:month/:day/:title/
 #permalink_defaults:
@@ -115,6 +115,6 @@ theme: meadow
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/lilasxie/xiezuoke
+  repo: https://github.com/lilasxie/blog
   branch: main
   message: first init
